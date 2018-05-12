@@ -1,0 +1,29 @@
+_repo: The-United-States-and-Latin-America_31789
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latané, John Holladay
+    alias: Latane, John Holladay
+    birthdate: 1869
+    deathdate: 1932
+    gutenberg_agent_id: '8106'
+    url: http://www.gutenberg.org/2009/agents/8106
+description: ''
+gutenberg_issued: '2010-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31789'
+  lccn: '20014147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin America -- Foreign relations -- United States'
+- !lcsh 'United States -- Foreign relations -- Latin America'
+- !lcc 'F1401'
+title: The United States and Latin America
+url: http://www.gutenberg.org/ebooks/31789
